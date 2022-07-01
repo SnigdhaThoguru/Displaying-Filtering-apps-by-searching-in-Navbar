@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "pinky",
+      "mobile": "3838583866",
+      "email": "snigdhathoguru@gmail.com",
+      "password": "gjjrg",
+      "id": 3
+    },
+    {
+      "firstname": "Pinky",
+      "mobile": "949966896",
+      "email": "ndjnjddj@gmail.com",
+      "password": "",
+      "lastname": "thoguru",
+      "id": 4
+    },
+    {
+      "firstname": "prabhath",
+      "lastname": "Bollina",
+      "mobile": "7757357575",
+      "email": "jdgjdg@gmail.com",
+      "id": 5
+    },
+    {
+      "firstname": "Chay",
+      "mobile": "728787274",
+      "email": "chayvuppala@gmail.com",
+      "lastname": "vuppala",
+      "id": 6
+    },
+    {
+      "firstname": "chaitu",
+      "mobile": "9752577584",
+      "email": "chaitu@gmail.com",
+      "lastname": "vuppala",
+      "id": 7
+    },
+    {
+      "firstname": "chaitanya",
+      "lastname": "vuppala",
+      "mobile": "929858955",
+      "email": "fhhhwhr@gmail.com",
+      "id": 8
+    },
+    {
+      "firstname": "hiii",
+      "lastname": "mkkk",
+      "mobile": "u8990909",
+      "email": "jnjnjj@gmail.com",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
